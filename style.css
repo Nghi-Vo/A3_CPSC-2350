@@ -1,0 +1,36 @@
+/**<a href='https://www.freepik.com/vectors/dino-pattern'>Dino pattern vector created by freepik - www.freepik.com</a>
+Back 4 blood: https://www.google.com/search?q=back+4+blood&client=safari&rls=en&sxsrf=APq-WBt7tlgKWTP0w7IBzW7bLsOeTpZOQQ:1647472505944&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVwvmr4cv2AhUDITQIHU7bAPUQ_AUoA3oECAIQBQ&biw=1152&bih=656&dpr=2#imgrc=6rHHHETtqXnBOM
+It takes two: https://www.google.com/imgres?imgurl=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2022%2F01%2FIt-Takes-Two-e1643647274115.jpg%3Fw%3D1024&imgrefurl=https%3A%2F%2Fvariety.com%2F2022%2Ftv%2Fnews%2Fit-takes-two-series-film-dj2-entertainment-1235167573%2F&tbnid=K-LYdUgkKKOSEM&vet=12ahUKEwjhsvf04cv2AhWiFjQIHfWdBukQMygFegUIARDgAQ..i&docid=3oZtg9vSmXHwpM&w=1024&h=632&q=it%20takes%20two&client=safari&ved=2ahUKEwjhsvf04cv2AhWiFjQIHfWdBukQMygFegUIARDgAQ
+Goose Goose Duck: https://www.google.com/imgres?imgurl=https%3A%2F%2Fgaggle.fun%2Fassets%2Fimages%2Fggd%2Ftitle-text-1080.jpeg&imgrefurl=https%3A%2F%2Fgaggle.fun%2Fgoose-goose-duck&tbnid=WQLgdFCwbw-HyM&vet=12ahUKEwiq8qKS4sv2AhV2ATQIHQ8EBp0QMygBegUIARC_AQ..i&docid=DLJZFbtuMJffXM&w=1080&h=608&q=goose%20goose%20duck&client=safari&ved=2ahUKEwiq8qKS4sv2AhV2ATQIHQ8EBp0QMygBegUIARC_AQ
+*/
+
+.background {
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,1)), url(images/dino-background.jpg);
+}
+
+.h1{
+    font-size: 2cm;
+    text-align: center;
+    font-family: fantasy;
+    color: darkslategrey;
+}
+
+.h2 {
+    color: darkslategrey;
+    text-align: center;
+    font-family: cursive;
+    border-bottom: 3px solid darkslategrey;
+    box-shadow: 5px 5px 10px rgba(0,0,0, 0.3); 
+}
+
+.text {
+    font-family: Bradley Hand, cursive;
+}
+
+img {
+    float: letf
+}
+
+.center {
+    text-align: center;
+}
